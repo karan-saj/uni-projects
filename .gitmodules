@@ -1,0 +1,3 @@
+[submodule "uni-projects"]
+	path = uni-projects
+	url = https://github.com/karan-saj/common-origin-models.git
